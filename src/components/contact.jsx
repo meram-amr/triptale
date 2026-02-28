@@ -2,7 +2,7 @@ import '../App.css';
 
 function Contact() {
     return (
-        <div className="contact-container container col-12 mt-5 ml-2 ">
+        <div id="contact" className="contact-container container col-12 mt-5 ml-2 ">
             <h2 className="contact-title ">Contact Us</h2>
             <p className="contact-text">If you have any questions or would like to get in touch, please feel free to contact us:</p>
             <div className="contact-info mx-auto">

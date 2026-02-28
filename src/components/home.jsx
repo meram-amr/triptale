@@ -13,9 +13,9 @@ function Home() {
                             Explore the world, one story at a time.
                             Discover amazing destinations and adventures.
                         </p>
-                        <button className="hero-btn">
+                        <a href="#blog" className="hero-btn">
                             Explore Now
-                        </button>
+                        </a>
                     </div>
                     <div className="col-md-6 mt-2 text-md-end">
                         <img

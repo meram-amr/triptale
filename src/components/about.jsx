@@ -6,7 +6,7 @@ import { faInstagram, faTwitter } from '@fortawesome/free-brands-svg-icons';
 
 function About() {
     return (
-        <div className="container text-center">
+        <div id="about" className="container text-center">
             <div className="about row ">
                 <div className="col-12 col-md-4 d-flex align-items-center justify-content-center">
                     <img

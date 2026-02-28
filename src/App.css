@@ -11,6 +11,10 @@ body {
   background-color: var(--Cream) !important;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 /* Navbar */
 
 .navbar {

@@ -15,7 +15,7 @@ function PostsList({ posts, activeCategory, searchQuery }) {
     const totalPages = Math.ceil(filteredPosts.length / postsPerPage);
     return (
         <div>
-            <div className="container my-5">
+            <div id="blog" className="container my-5">
                 <div className="row g-4 align-items-stretch">
 
                     {currentPosts.map((post) => (
