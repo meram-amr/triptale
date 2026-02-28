@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/triptale/static/css/main.7e70d600.css",
+    "main.js": "/triptale/static/js/main.66bd21be.js",
+    "static/js/453.7da578da.chunk.js": "/triptale/static/js/453.7da578da.chunk.js",
+    "static/media/home.jpg": "/triptale/static/media/home.fcd0a1d534ea2a583b2b.jpg",
+    "static/media/about-img.jpg": "/triptale/static/media/about-img.4ee7c8c82ef492e48403.jpg",
+    "index.html": "/triptale/index.html",
+    "main.7e70d600.css.map": "/triptale/static/css/main.7e70d600.css.map",
+    "main.66bd21be.js.map": "/triptale/static/js/main.66bd21be.js.map",
+    "453.7da578da.chunk.js.map": "/triptale/static/js/453.7da578da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e70d600.css",
+    "static/js/main.66bd21be.js"
+  ]
+}
