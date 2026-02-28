@@ -36,15 +36,15 @@ function About() {
                         </div>
                     </div>
                     <div className="about-social d-flex justify-content-center align-items-center">
-                        <a href="https://yourwebsite.com" className="social-link">
+                        <a href="https://meram-amr.github.io/triptale/" className="social-link">
                             <FontAwesomeIcon icon={faGlobe} />
                         </a>
 
-                        <a href="https://instagram.com/yourusername" className="social-link">
+                        <a href="https://instagram.com" className="social-link">
                             <FontAwesomeIcon icon={faInstagram} />
                         </a>
 
-                        <a href="https://twitter.com/yourusername" className="social-link">
+                        <a href="https://twitter.com" className="social-link">
                             <FontAwesomeIcon icon={faTwitter} />
                         </a>
                     </div>
