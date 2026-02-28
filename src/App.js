@@ -2,7 +2,6 @@ import Home from "./components/home";
 import Navbar from "./components/navbar";
 import Search from "./components/search";
 import Categories from "./components/categories";
-import Carts from "./components/carts";
 import posts from "./posts";
 import { useState } from 'react';
 import PostsList from "./components/postslist";

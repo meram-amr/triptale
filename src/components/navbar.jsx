@@ -10,16 +10,16 @@ function navbar() {
                 <div className="collapse navbar-collapse float-end" id="navbarNav">
                     <ul className="navbar-nav ms-auto mx-5">
                         <li className="nav-item">
-                            <a className="nav-link active" aria-current="page" href="#">Home</a>
+                            <a className="nav-link active " aria-current="page" href="/">Home</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Categories</a>
+                            <a className="nav-link" href="/">Categories</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">About</a>
+                            <a className="nav-link" href="/">About</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Contact</a>
+                            <a className="nav-link" href="/">Contact</a>
                         </li>
                     </ul>
                 </div>
