@@ -4,7 +4,7 @@ A responsive travel blog platform built with React, featuring search functionali
 
 ## Live Demo
 
-[View Live on Vercel](https://meram-amr.github.io/triptale/)
+[View Live](https://meram-amr.github.io/triptale/)
 
 ---
 
